@@ -4,3 +4,7 @@ Some data is added
 Hi, This is Moshiul Alam Gazi to learn MERN 
 
 Hello, is everything ok?
+
+
+
+This text is added from day3.txt main branch
